@@ -1,0 +1,17 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: rgb(255, 157, 0);
+}
+
+.converter {
+  margin-top: 50px;
+}
+
+input, select, button {
+  margin: 5px;
+}
+
+h3 {
+  margin-top: 20px;
+}
